@@ -1,0 +1,2 @@
+- TUWEL Kurs: https://tuwel.tuwien.ac.at/course/view.php?id=75192
+- TISS LVS: https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=2980&dsrid=365&semester=2025W&courseNr=180771
